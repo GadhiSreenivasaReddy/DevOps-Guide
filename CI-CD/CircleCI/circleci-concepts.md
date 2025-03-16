@@ -47,3 +47,10 @@ A command definition defines a sequence of steps as a map to be executed in a jo
 
 # Executors   :
 Executors define the environment in which the steps of a job will be run, allowing you to reuse a single executor definition across multiple jobs.
+
+# Pipeline   : 
+A CircleCI pipeline is the full set of processes you run when you trigger work on your projects. Pipelines encompass your workflows, which in turn coordinate your jobs. 
+
+# Data Persistence   : 
+Data persistence allows you to move data between jobs and speed up your build. There are three main methods for persisting data in CircleCI: caches, workspaces, and artifacts.
+

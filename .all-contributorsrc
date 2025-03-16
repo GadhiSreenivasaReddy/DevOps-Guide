@@ -247,7 +247,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/20483354?v=4",
       "profile": "https://github.com/waniniraj",
       "contributions": [
-        "code"
+        "code",
+        "doc"
       ]
     },
     {
@@ -365,6 +366,42 @@
       "name": "Franciosi",
       "avatar_url": "https://avatars.githubusercontent.com/u/123564?v=4",
       "profile": "https://github.com/franciosi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "s403o",
+      "name": "Eslam Adel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38042656?v=4",
+      "profile": "https://github.com/s403o",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mahmoodahmad100",
+      "name": "Mahmood Ahmad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24311652?v=4",
+      "profile": "https://github.com/mahmoodahmad100",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "darostegui",
+      "name": "Diego Arostegui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61184284?v=4",
+      "profile": "https://github.com/darostegui",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "relativvv",
+      "name": "Robin Schulte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52501124?s=400&u=65c9b54a550063e6bd3b4fb36f0ed7c9ac80bde5&v=4",
+      "profile": "https://github.com/relativvv",
       "contributions": [
         "code"
       ]
